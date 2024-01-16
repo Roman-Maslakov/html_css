@@ -1,3 +1,32 @@
 a {
     text-decoration: none;
 }
+
+.menu-link {
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.header {
+    color: #222;
+    font-size: 28px;
+    line-height: 28px;
+    font-weight: bold;
+}
+
+.content {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.header-adout {
+    color: coral;
+    font-style: normal;
+    font-family: 700;
+    font-size: 38px;
+    line-height: 80px;
+}
